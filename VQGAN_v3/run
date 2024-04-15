@@ -1,0 +1,1 @@
+python training_vqgan.py --image-channels 1 --epochs 1 --fulldose-dataset-path ../Mayo_data/train/full_1mm --lowdose-dataset-path ../Mayo_data/train/quarter_1mm --device cuda 
