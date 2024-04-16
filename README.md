@@ -1,4 +1,4 @@
-# Low-Dose to High-Dose Image Conversion Using Deep Learning
+# Brahma-GAN: AI-Powered Low-Dose CT Enhancement
 
 ## Project Description
 
@@ -17,7 +17,8 @@ Before you begin, ensure you have met the following requirements:
 - Pip package manager
 - Access to a GPU for training and inference (recommended)
 
-## Installation
+## Run command
+- 
 
 To install the required packages, follow these steps:
 
