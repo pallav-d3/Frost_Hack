@@ -26,3 +26,9 @@ To install the required packages, follow these steps:
 git clone https://github.com/your-repo/low-to-high-dose.git
 cd low-to-high-dose
 pip install -r requirements.txt
+
+```
+## Citations : 
+[Mayo Grand challenge](https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h/file/858370564530)
+[VQGAN](https://github.com/dome272/VQGAN-pytorch)
+[CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
