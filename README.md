@@ -3,7 +3,8 @@
 ## Project Description
 
 This project utilizes deep learning models to enhance the quality of low-dose medical images to the quality of high-dose images. This is particularly important in medical imaging, like CT scans, where reducing the dose of radiation is beneficial for patient safety but maintaining image quality is crucial for accurate diagnosis. We use state-of-the-art convolutional neural networks (CNNs) that learn from pairs of low and high-dose images to predict high-dose quality images from new low-dose images.
-![model](https://github.com/pallav-d3/Frost_Hack/assets/34905952/93ce6f03-9a35-42c4-8934-33cd193fab7b)
+
+![model](https://github.com/pallav-d3/Frost_Hack/assets/34905952/d58f2ba4-7f45-4cd5-9767-2237feaa80c8)
 
 
 
