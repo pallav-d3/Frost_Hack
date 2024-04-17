@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 - Access to a GPU for training and inference (recommended)
 
 ## Run command
-- 
+- python train.py --dataroot ./datasets/CT_data_imgs --name CT_data_imgs --model cycle_gan --display_id
 
 To install the required packages, follow these steps:
 
